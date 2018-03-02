@@ -15,9 +15,10 @@ A collection of Python files to practice making application windows
 	   - When you apply this change, Windows will add the full path to python.exe
 	   - The next time you view the shortcut properties, the target will look like
 	     "C:\Path\To\Python\Interpreter\python.exe" "C:\Users\Your\Documents\YourPythonProgram.py"
-	5. Change the Run option to Minimized. This will minimize the command-prompt (console) window, leaving your
-	   Python program window at its normal size.
-	6. When you double-click on the shortcut, you will see two items on the taskbar related to your program.
+	5. Change the Run option to Minimized. This will minimize the command-prompt (console) window, 
+    	   leaving your Python program window at its normal size.
+	6. When you double-click on the shortcut, you will see two items on the taskbar related to 
+	   your program.
 	   - The visible item is your program.
 	   - The hidden item is the minimized command-prompt (console) window.
 	   - Task Manager shows two Python processes, 
